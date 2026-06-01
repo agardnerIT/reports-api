@@ -102,7 +102,7 @@ The following is a list of projects that produce or consume policy reports:
 * [Nirmata Control Hub](https://nirmata.com/nirmata-control-hub/)
 * [Open Cluster Management](https://open-cluster-management.io/)
 * [SUSE Rancher](https://github.com/rancher/rancher)
-* [Dynatrace (via an OpenTelemetry Collector](https://docs.dynatrace.com/docs/secure/threat-observability/security-events-ingest/ingest-kyverno-data)
+* [Dynatrace (via an OpenTelemetry Collector)](https://docs.dynatrace.com/docs/secure/threat-observability/security-events-ingest/ingest-kyverno-data)
 
 ## Building 
 
